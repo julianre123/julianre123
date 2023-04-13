@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Julian re</h1>
 <h3 align="center">Front-end developer | HTML, CSS, JavaScript and React.js</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
