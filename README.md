@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src=""/>
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Julian re</h1>
 <h3 align="center">Front-end developer | HTML, CSS, JavaScript and React.js</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
